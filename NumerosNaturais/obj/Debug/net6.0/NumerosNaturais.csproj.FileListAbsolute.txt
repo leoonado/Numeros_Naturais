@@ -1,0 +1,15 @@
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\bin\Debug\net6.0\NumerosNaturais.exe
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\bin\Debug\net6.0\NumerosNaturais.deps.json
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\bin\Debug\net6.0\NumerosNaturais.runtimeconfig.json
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\bin\Debug\net6.0\NumerosNaturais.dll
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\bin\Debug\net6.0\NumerosNaturais.pdb
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.csproj.AssemblyReference.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.AssemblyInfoInputs.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.AssemblyInfo.cs
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.csproj.CoreCompileInputs.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.dll
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\refint\NumerosNaturais.dll
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.pdb
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\NumerosNaturais.genruntimeconfig.cache
+C:\Users\leo18\OneDrive\Documentos\Curso C#\NumerosNaturais\NumerosNaturais\obj\Debug\net6.0\ref\NumerosNaturais.dll
